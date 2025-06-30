@@ -15,3 +15,4 @@ I'm a self-taught developer passionate about learning and building tech solution
 
 ## 📬 Contact
 - Twitter: [@yi_fikky](https://twitter.com/yourhandle)
+ Email: [ fikayoobisakin@gmail.com]
